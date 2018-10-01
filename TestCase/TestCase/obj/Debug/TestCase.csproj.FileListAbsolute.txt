@@ -1,0 +1,14 @@
+c:\users\bi-td\documents\visual studio 2015\Projects\TestCase\TestCase\bin\Debug\TestCase.exe.config
+c:\users\bi-td\documents\visual studio 2015\Projects\TestCase\TestCase\obj\Debug\TestCase.csprojResolveAssemblyReference.cache
+c:\users\bi-td\documents\visual studio 2015\Projects\TestCase\TestCase\obj\Debug\MainWindow.g.cs
+c:\users\bi-td\documents\visual studio 2015\Projects\TestCase\TestCase\obj\Debug\App.g.cs
+c:\users\bi-td\documents\visual studio 2015\Projects\TestCase\TestCase\obj\Debug\TestCase_MarkupCompile.cache
+c:\users\bi-td\documents\visual studio 2015\Projects\TestCase\TestCase\obj\Debug\TestCase_MarkupCompile.lref
+c:\Users\bi-td\Documents\Visual Studio 2015\Projects\TestCase\TestCase\bin\Debug\TestCase.exe
+c:\Users\bi-td\Documents\Visual Studio 2015\Projects\TestCase\TestCase\bin\Debug\TestCase.pdb
+c:\Users\bi-td\Documents\Visual Studio 2015\Projects\TestCase\TestCase\obj\Debug\MainWindow.baml
+c:\Users\bi-td\Documents\Visual Studio 2015\Projects\TestCase\TestCase\obj\Debug\TestCase.g.resources
+c:\Users\bi-td\Documents\Visual Studio 2015\Projects\TestCase\TestCase\obj\Debug\TestCase.Properties.Resources.resources
+c:\Users\bi-td\Documents\Visual Studio 2015\Projects\TestCase\TestCase\obj\Debug\TestCase.csproj.GenerateResource.Cache
+c:\Users\bi-td\Documents\Visual Studio 2015\Projects\TestCase\TestCase\obj\Debug\TestCase.exe
+c:\Users\bi-td\Documents\Visual Studio 2015\Projects\TestCase\TestCase\obj\Debug\TestCase.pdb
